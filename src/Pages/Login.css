@@ -1,0 +1,22 @@
+
+  html,body{
+    overflow-y: hidden;
+  }
+    .Login {
+      background-image: url("https://www.freecodecamp.org/news/content/images/size/w2000/2020/04/w-qjCHPZbeXCQ-unsplash.jpg");
+      padding: 250.5px 0;
+      overflow-x: hidden;
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+
+    }
+  
+    .Login form {
+      margin: 0 auto;
+      max-width: 320px;
+      overflow-x: hidden;
+      
+    }
+    
+  
